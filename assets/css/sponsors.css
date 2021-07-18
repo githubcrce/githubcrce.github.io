@@ -1,0 +1,98 @@
+#sponsors-bg {
+  background: url("../../assets/img/sponsors-hero-bg-1600.jpg") center / cover no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+#sponsor-header {
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+  font-size: 56px;
+}
+
+@media (max-width: 767px) {
+  #sponsor-header {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-size: 36px;
+  }
+}
+
+#head-title {
+  margin-top: 200px;
+  text-align: center;
+  width: 100%;
+}
+
+#main-title {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 16px;
+  color: var(--bs-gray);
+}
+
+#sponsor-project {
+  margin-left: 550px;
+}
+
+@media (max-width: 767px) {
+  #sponsor-project {
+    margin-left: 0px;
+    width: 100%;
+  }
+}
+
+#sub-sponsors {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/sponsors-contribute-illo.jpg") left / contain no-repeat;
+}
+
+#sub-sponsor-head {
+  background: linear-gradient(to right, #2983fc 0%, #645fe5 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 62px;
+  text-align: center;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+@media (max-width: 767px) {
+  #sub-sponsor-head {
+    background: linear-gradient(to right, #2983fc 0%, #645fe5 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 34px;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+  }
+}
+
+#sub-spon-container {
+  width: 450px;
+  margin-left: 830px;
+  margin-top: 30px;
+}
+
+@media (max-width: 767px) {
+  #sub-spon-container {
+    width: 100%;
+    margin-top: 100px;
+    align-content: center;
+    margin-left: 0px;
+    text-align: center;
+    line-height: 26px;
+  }
+}
+
+#span-1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#span-2 {
+  font-size: 24px;
+  color: var(--bs-secondary);
+  font-weight: bold;
+}
+
