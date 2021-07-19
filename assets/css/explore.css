@@ -1,0 +1,161 @@
+#main-navbar {
+  background: #161b22;
+}
+
+#explore-home {
+  width: 100%;
+  height: 100%;
+}
+
+#trending-repo-container {
+  align-content: center;
+}
+
+a {
+  text-decoration: snow;
+}
+
+#stars {
+  border: 1px solid rgb(128,128,128);
+  background: white;
+}
+
+#line {
+  background: #cccccc;
+  height: 0.1px;
+  width: 100%;
+  padding: 0 0;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+#updates {
+  color: #808080;
+  font-size: 14px;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+#org-name {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  #org-name {
+    font-size: 16px;
+  }
+}
+
+#repo-name {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  #repo-name {
+    font-size: 16px;
+  }
+}
+
+#slash {
+  font-size: 18px;
+  color: #808080;
+}
+
+#topic-name {
+  font-size: 20px;
+}
+
+#topic-img {
+  width: 600px;
+}
+
+#app-img {
+  height: 150px;
+  background: url("../../assets/img/apna-bill-img.png") center / cover no-repeat;
+}
+
+#trending-repo {
+  margin-top: 20px;
+}
+
+#popular-topic {
+  margin-top: 20px;
+}
+
+#recom-app {
+  margin-top: 20px;
+}
+
+#explore-footer {
+  margin-top: 20px;
+}
+
+.social {
+  margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+  #trending-users {
+    margin-top: 20px;
+  }
+}
+
+#dev-img {
+}
+
+#dev-name {
+  font-weight: 500;
+}
+
+#dev-username {
+  color: #4b4c4d;
+  font-size: 14px;
+}
+
+#dev-repo {
+  font-size: 14px;
+  color: #808080;
+}
+
+#other-dev {
+  font-size: small;
+}
+
+@media (max-width: 767px) {
+  #empty-col {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  #trend-col {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  #devs-col {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  #stars-grp {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  #app-logo {
+    width: 60px;
+    height: 60px;
+  }
+}
+
