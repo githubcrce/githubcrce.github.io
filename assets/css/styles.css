@@ -79,6 +79,7 @@
   text-align: left;
   margin-top: 30px;
   width: 300px;
+  line-height: 35px;
 }
 
 @media (max-width: 576px) {
@@ -96,6 +97,7 @@
   color: rgb(155,177,197);
   font-size: 25px;
   margin-left: 20px;
+  margin-top: 15px;
   width: 300px;
 }
 
@@ -604,6 +606,7 @@
 
 #form-header {
   color: white;
+  padding-top: 15px;
 }
 
 input {
