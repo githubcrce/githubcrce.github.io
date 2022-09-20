@@ -19,7 +19,7 @@
 
 @media (max-width: 767px) {
   #sponsor-header {
-    font-family: "Archivo Black", sans-serif;
+    font-family: 'Archivo Black', sans-serif;
     text-align: center;
     font-size: 36px;
   }
@@ -52,8 +52,7 @@
 #sub-sponsors {
   width: 100%;
   height: 100vh;
-  background: url("../../assets/img/sponsors-contribute-illo.jpg") left /
-    contain no-repeat;
+  background: url("../../assets/img/sponsors-contribute-illo.jpg") left / contain no-repeat;
 }
 
 #sub-sponsor-head {
@@ -62,7 +61,7 @@
   -webkit-text-fill-color: transparent;
   font-size: 62px;
   text-align: center;
-  font-family: "Archivo Black", sans-serif;
+  font-family: 'Archivo Black', sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -72,7 +71,7 @@
     -webkit-text-fill-color: transparent;
     font-size: 34px;
     text-align: center;
-    font-family: "Archivo Black", sans-serif;
+    font-family: 'Archivo Black', sans-serif;
   }
 }
 
@@ -81,8 +80,6 @@
   width: 450px;
   margin-left: 830px;
   margin-top: 30px;
-  
-
 }
 
 @media (max-width: 767px) {
